@@ -1,6 +1,6 @@
 # AhToVIK: Evidence-Gated Runtime Adaptation for Heterogeneous Multi-Robot Systems
 
-Replication package for the SEAMS 2026 submission *"Knowledge-Driven Runtime Adaptation with Evidence-Gated Recovery for Heterogeneous Multi-Robot Systems"*.
+
 
 AhToVIK is a MAPE-K framework for heterogeneous robot teams (UAVs, UGVs and confined-space crawlers). It ranks eligible robots by geometric compromise (AHP weights, ideal-reference distances, modified VIKOR index), forms only complete feasible teams, and uses an evidence gate to decide whether to retain a team, reconfigure the incumbent, replace a robot, request a bounded diagnostic, or escalate. Verified recovery outcomes are stored in a versioned knowledge base and reused to order later diagnostics.
 
