@@ -1,0 +1,19 @@
+method,lines_of_core_logic,third_party_dependencies,dependencies,tunable_parameters
+AHTOVIK (static),139,1,numpy,2
+CO-MILP,26,3,numpy; scipy.optimize (MILP / HiGHS); scipy.sparse,4
+SAW-greedy,25,1,numpy,0
+TOPSIS-greedy,33,1,numpy,0
+VIKOR-greedy,30,1,numpy,1
+TRAIT-greedy,26,1,numpy,1
+SSI-auction,11,1,numpy,0
+AHTOVIK (runtime),235,1,numpy,12
+AHTOVIK-nogate,185,1,numpy,4
+MARKET,43,1,numpy,3
+RAINBOW,60,1,numpy,4
+MAYYA,68,2,numpy; scipy.optimize (assignment),5
+CALVO,62,2,numpy; scipy.optimize (assignment),5
+FILIPPONE,62,1,numpy,3
+ESFAHANI,59,1,numpy,5
+CARWEHL,73,1,numpy,8
+CAMARA,56,1,numpy,5
+RODRIGUES,65,1,numpy,5
